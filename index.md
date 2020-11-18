@@ -8,12 +8,13 @@ Assistant Professor, Vrije Universiteit Amsterdam
 
 Bioinformatics, Department of Computer Science<br/>
 
-<a href="e.bosdriesz@nki.nl">e.bosdriesz@nki.nl</a> - +31 (0)6 20678153
+<a href="e.bosdriesz@vu.nl">e.bosdriesz@vu.nl</a> - +31 (0)6 20678153
 
 <div id="webaddress">
   <a href="https://orcid.org/0000-0002-8788-9548"><i class="ai ai-orcid"></i> 0000-0002-8788-9548</a> -
   <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E"><i class="ai ai-pubmed"></i> Pubmed </a> -
-  <a href="https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
+  <a href="https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> - 
+  <a href="https://https://twitter.com/evertbosdriesz"><i class="ai ai-twitter"></i> @evertbosdriesz</a>
 </div>
 
 <!-- ### Qualities 
