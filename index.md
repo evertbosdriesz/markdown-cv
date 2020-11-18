@@ -14,7 +14,7 @@ Bioinformatics, Department of Computer Science<br/>
   <a href="https://orcid.org/0000-0002-8788-9548"><i class="ai ai-orcid"></i> 0000-0002-8788-9548</a> -
   <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E"><i class="ai ai-pubmed"></i> Pubmed </a> -
   <a href="https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> - 
-  <a href="https://https://twitter.com/evertbosdriesz"><i class="ai ai-twitter"></i> @evertbosdriesz</a>
+  <a href="https://twitter.com/evertbosdriesz"><i class="ai ai-twitter"></i> @evertbosdriesz</a>
 </div>
 
 <!-- ### Qualities 
