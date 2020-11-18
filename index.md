@@ -105,9 +105,12 @@ C, C++ (It's been a while)
 
 ## Publications
 
- A list is also available at [google scholar](https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en) or [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E). # indicates shared first author.
+ A list is also available at [google scholar](https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en) or [pubmed](https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E). # indicates equal contribution.
 
 ### Key
+
+J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
+*Shows that combining multiple drugs at low dose is effective, prevents emergence resistance, and is well tolerated by mice.*
 
 **E. Bosdriesz**, A. Prahallad, B. Klinger, A. Sieber, A. Bosma, R. Bernards, N. Bl&uuml;thgen and L.F.A. Wessels, ‘Comparative Network Reconstruction Using Mixed Integer Programming’, *Bioinformatics*, *34*:i997–1004. doi:[10.1093/bioinformatics/bty616](https://doi.org/10.1093/bioinformatics/bty616), 2018.<br>
 *Method to reconstruct and compare signaling networks based on perturbation data using Mixed Integer Quadratic programming.*:
@@ -130,6 +133,8 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 ### All
 
 `2020`
+J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
+
 T. Sustic, **E. Bosdriesz**, S. van Wageningen, L.F.A. Wessels and R. Bernards, 'RUNX2/CBFB modulates the response to MEK inhibitors through activation of receptor tyrosine kinases in *KRAS*-mutant colorectal cancer', *Translational Oncology*, *13*(2):201-211.
 doi:[10.1016/j.tranon.2019.10.006(https://doi.org/10.1016/j.tranon.2019.10.006), 2020.
 
