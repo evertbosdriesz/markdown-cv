@@ -16,21 +16,21 @@ Bioinformatics, Department of Computer Science<br/>
   <a href="https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a>
 </div>
 
-### Qualities 
+<!-- ### Qualities 
 
-Enthusiastic, creative, analytical, collaborative, independent thinker, perseverance.
+Enthusiastic, creative, analytical, collaborative, independent thinker, perseverance. -->
 
 ### Specialized in
 
 Computational cancer biology, statistical analysis of -omics data, (quasi) mechanistic modeling.
 
-### Research question
+<!-- ### Research question
 
-What determines why and how cancer cells respond to targeted inhibitors?
+What determines why and how cancer cells respond to targeted inhibitors? -->
 
 ## Experience
 
-`2014-2019`
+`2020-`
 **Assistant Professor**, *Bioinformatics, Vrije Universiteit Amsterdam*.<br>
 
 * Organizing MSc course "Bioinformatics for Translational Medicine"
