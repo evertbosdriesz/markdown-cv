@@ -110,6 +110,10 @@ C, C++ (It's been a while)
 
 ### Key
 
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br>
+*Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are likely to selective, using an isogenic cell-line pair.*
+<i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a>
+
 J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
 *Shows that combining multiple drugs at low dose is effective, prevents emergence resistance, and is well tolerated by mice.*
 
@@ -131,7 +135,11 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
 
-### All
+### Pre-prints
+
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br>
+
+### Peer-reviewed articles
 
 `2020`
 J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
