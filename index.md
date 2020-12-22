@@ -135,10 +135,6 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
 
-### Pre-prints
-
-**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br>
-
 ### Peer-reviewed articles
 
 `2020`
@@ -191,8 +187,7 @@ J. Berkhout, **E. Bosdriesz**, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink
 
 ### Preprints
 
-J.M. Fernandes Neto,E. Nadal, S.N. Ooft, **E. Bosdriesz**, L. Farre,C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and R. Bernards.
-'Multiple Low Dose (MLD) therapy: an effective strategy to treat EGFR inhibitor-resistant NSCLC tumours', *BioRxiv* 821975. doi:[10.1101/821975](https://.doi.org/10.1101/821975), 2019.
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br>
 
 N. Aben, J. de Ruiter, **E. Bosdriesz**, Y. Kim, G. Bounova, D.J. Vis, L.F.A. Wessels and M. Michaut.
 ‘Identifying Biomarkers of Anti-Cancer Drug Synergy Using Multi-Task Learning.’
