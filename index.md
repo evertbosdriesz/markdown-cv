@@ -202,10 +202,10 @@ N. Aben, J. de Ruiter, **E. Bosdriesz**, Y. Kim, G. Bounova, D.J. Vis, L.F.A. We
 
 
 `2022` 
-**UMCA MCBI research meetings**, *Understanding cell state dependent drug response using network modeling*, Amsterdam, the Netherlands.
+**Amsterdam UMC MCBI research meetings**, *Understanding cell state dependent drug response using network modeling*, Amsterdam, the Netherlands.
 
 `2021`
-**UMCA Oncogenetics seminar**, *Understanding drug response using network modeling*, Amsterdam, the Netherlands.
+**Amsterdam UMC Oncogenetics seminar**, *Understanding drug response using network modeling*, Amsterdam, the Netherlands.
 
 `2018`
 **INCOME2018**,
