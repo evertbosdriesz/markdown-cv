@@ -23,7 +23,7 @@ Enthusiastic, creative, analytical, collaborative, independent thinker, persever
 
 ### Specialized in
 
-Computational cancer biology, statistical analysis of -omics data, (quasi) mechanistic modeling.
+Computational cancer biology, single cell data, (quasi) mechanistic modeling.
 
 <!-- ### Research question
 
@@ -31,37 +31,38 @@ What determines why and how cancer cells respond to targeted inhibitors? -->
 
 ## Experience
 
-`2020-`
+`2020-present`
 **Assistant Professor**, *Bioinformatics, Vrije Universiteit Amsterdam*.<br>
-
-* Organizing MSc course "Bioinformatics for Translational Medicine"
-* Track coordinator "Bioinformatics and Systems Biology" MSc program
-* Developing network-reconstruction methods.
+<!-- 
+* Organizing MSc course "Bioinformatics for Translational Medicine" and BSc course "Introduction to Bioinformatics".
+* Track coordinator and admission committee "Bioinformatics and Systems Biology" MSc program.
+* Member of the BioSB Hot Topics committee.
+* Member of the BioSB Education committee.
+* Developing network-reconstruction methods. -->
 
 `2014-2019`
 **Postdoctoral Fellow**, *Computational Cancer Biology, Netherlands Cancer Institute*.<br>
-
+<!-- 
 * Developed network-reconstruction methods.
 * Analysed multi-omics data sets (pre-clinical and clinical).
 * Collaborated with many "wet-lab" groups.
 * Supervised MSc students and a bioinformatician.
-* Member of the Postdoc-committee.
-* Gave guest lectures and organized BioSB graduate student course.
+* Member of the NKI Postdoc-committee. -->
 
 `2009-2014`
 **PhD Candidate**, *Systems Bioinformatics, Vrije Universiteit Amsterdam*.<br/>
-
+<!-- 
 * Analysed ODE-models.
 * Identified design principles in regulatory circuits.
-* Performed some experiments in yeast.
+* Performed experiments in yeast.
 * Taught various bachelor and master courses.
-* Organized NISB seminar series.
+* Organized NISB seminar series. -->
 
 `2008-2013` **Various teaching jobs**
-
+<!-- 
 * Teaching assistant as MSc student (physics, beta-gamma bachelor)
 * Giving exam trainings (physics and math, VMBO and HAVO)
-* One-on-one tutoring of high-school students (physics, math and chemistry, HAVO and VWO)
+* One-on-one tutoring of high-school students (physics, math and chemistry, HAVO and VWO) -->
 
 ## Education
 
@@ -82,7 +83,7 @@ Thesis: "Learning by Reward and Punishment in a Biologically Inspired Neural Net
 Advisor: Dr. W.A. van Leeuwen
 
 `2002-2003` **Beta-Gamma Propedeuse**, *University of Amsterdam*.<br/>
-
+<!-- 
 ## Coding
 
 `Proficient`
@@ -92,7 +93,7 @@ Python, R, CPLEX, Mathematica
 bash, snakemake, git
 
 `Rusty`
-C, C++ (It's been a while)
+C, C++ (It's been a while) -->
 
 ## Awards
 
@@ -110,8 +111,8 @@ C, C++ (It's been a while)
 
 ### Key
 
-**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br>
-*Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are likely to selective, using an isogenic cell-line pair.*
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
+*Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are selective in an isogenic cell-line pair.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a>
 
 J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
@@ -122,7 +123,7 @@ J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean
 <i class="fab fa-github"></i> <a href="https://github.com/NKI-CCB/cnr"> Code </a> -
 <a href="https://github.com/NKI-CCB/CNR-analyses"> Notebooks </a>
 
-A. Ressa#, **E. Bosdriesz**#, J. de Ligt, S. Mainardi, G. Maddalo, A. Prahallad, M. Jager, L. de la Fonteijne, M. Fitzpatrick, S. Groten, A.F.M. Altelaar, R. Bernards, E. Cuppen, L.F.A Wessels and J.R. Heck,
+<!-- A. Ressa#, **E. Bosdriesz**#, J. de Ligt, S. Mainardi, G. Maddalo, A. Prahallad, M. Jager, L. de la Fonteijne, M. Fitzpatrick, S. Groten, A.F.M. Altelaar, R. Bernards, E. Cuppen, L.F.A Wessels and J.R. Heck,
 ‘A System-Wide Approach to Monitor Responses to Synergistic BRAF and EGFR Inhibition in Colorectal Cancer Cells’,
 *Molecular & Cellular Proteomics*, *17*(10):1892-1908.
 doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<br>
@@ -133,9 +134,13 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 ‘How Fast-Growing Bacteria Robustly Tune Their Ribosome Concentration to Approximate Growth-Rate Maximization.’,
 *FEBS Journal*, *282*(10):2029-2044. doi:[10.1111/febs.13258](https://doi.org/10.1111/febs.13258), 2015.<br>
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:
-<a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a>
+<a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a> -->
 
 ### Peer-reviewed articles
+
+`2022`
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.
+
 
 `2020`
 J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
@@ -186,8 +191,8 @@ J. Berkhout, **E. Bosdriesz**, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink
 <br>
 
 ### Preprints
-
-**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br>
+<!-- 
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br> -->
 
 N. Aben, J. de Ruiter, **E. Bosdriesz**, Y. Kim, G. Bounova, D.J. Vis, L.F.A. Wessels and M. Michaut.
 ‘Identifying Biomarkers of Anti-Cancer Drug Synergy Using Multi-Task Learning.’
@@ -245,10 +250,10 @@ Ede, the Netherlands.
 
 ## Reviewing
 
-`Independent`
-Bioinformatics, Cellular Oncology, Cancer Medicine, Molecular Cancer Therapeutics, Scientific Reports.
+<!-- #`Independent` -->
+Cell Reports Medicine, Bioinformatics, PLOS Computational Biology, iScience, Review Commons,  Cellular Oncology, Cancer Medicine, Molecular Cancer Therapeutics, Scientific Reports.
 
-`Co-reviewed`
+<!-- `Co-reviewed`
 Nature Communications, Plos Computational Biology (with Prof. Wessels),
 Lung Cancer (with Prof. Bernards),
-Biophysical Journal (with Prof. Bruggeman).
+Biophysical Journal (with Prof. Bruggeman). -->
