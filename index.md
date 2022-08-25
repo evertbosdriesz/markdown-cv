@@ -51,6 +51,7 @@ What determines why and how cancer cells respond to targeted inhibitors? -->
 
 `2009-2014`
 **PhD Candidate**, *Systems Bioinformatics, Vrije Universiteit Amsterdam*.<br/>
+
 <!-- * Analysed ODE-models.
 * Identified design principles in regulatory circuits.
 * Performed experiments in yeast.
@@ -58,6 +59,7 @@ What determines why and how cancer cells respond to targeted inhibitors? -->
 * Organized NISB seminar series. -->
 
 `2008-2013` **Various teaching jobs**
+
 <!-- * Teaching assistant as MSc student (physics, beta-gamma bachelor)
 * Giving exam trainings (physics and math, VMBO and HAVO)
 * One-on-one tutoring of high-school students (physics, math and chemistry, HAVO and VWO) -->
@@ -81,6 +83,7 @@ Thesis: "Learning by Reward and Punishment in a Biologically Inspired Neural Net
 Advisor: Dr. W.A. van Leeuwen
 
 `2002-2003` **Beta-Gamma Propedeuse**, *University of Amsterdam*.<br/>
+
 <!-- ## Coding
 
 `Proficient`
@@ -196,6 +199,13 @@ N. Aben, J. de Ruiter, **E. Bosdriesz**, Y. Kim, G. Bounova, D.J. Vis, L.F.A. We
 
 
 ## Talks
+
+
+`2022` 
+**UMCA MCBI research meetings**, *Understanding cell state dependent drug response using network modeling*, Amsterdam, the Netherlands.
+
+`2021`
+**UMCA Oncogenetics seminar**, *Understanding drug response using network modeling*, Amsterdam, the Netherlands.
 
 `2018`
 **INCOME2018**,
