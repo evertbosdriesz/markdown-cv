@@ -33,8 +33,8 @@ What determines why and how cancer cells respond to targeted inhibitors? -->
 
 `2020-present`
 **Assistant Professor**, *Bioinformatics, Vrije Universiteit Amsterdam*.<br>
-<!-- 
-* Organizing MSc course "Bioinformatics for Translational Medicine" and BSc course "Introduction to Bioinformatics".
+
+<!-- * Organizing MSc course "Bioinformatics for Translational Medicine" and BSc course "Introduction to Bioinformatics".
 * Track coordinator and admission committee "Bioinformatics and Systems Biology" MSc program.
 * Member of the BioSB Hot Topics committee.
 * Member of the BioSB Education committee.
@@ -42,8 +42,8 @@ What determines why and how cancer cells respond to targeted inhibitors? -->
 
 `2014-2019`
 **Postdoctoral Fellow**, *Computational Cancer Biology, Netherlands Cancer Institute*.<br>
-<!-- 
-* Developed network-reconstruction methods.
+
+<!-- * Developed network-reconstruction methods.
 * Analysed multi-omics data sets (pre-clinical and clinical).
 * Collaborated with many "wet-lab" groups.
 * Supervised MSc students and a bioinformatician.
@@ -51,16 +51,14 @@ What determines why and how cancer cells respond to targeted inhibitors? -->
 
 `2009-2014`
 **PhD Candidate**, *Systems Bioinformatics, Vrije Universiteit Amsterdam*.<br/>
-<!-- 
-* Analysed ODE-models.
+<!-- * Analysed ODE-models.
 * Identified design principles in regulatory circuits.
 * Performed experiments in yeast.
 * Taught various bachelor and master courses.
 * Organized NISB seminar series. -->
 
 `2008-2013` **Various teaching jobs**
-<!-- 
-* Teaching assistant as MSc student (physics, beta-gamma bachelor)
+<!-- * Teaching assistant as MSc student (physics, beta-gamma bachelor)
 * Giving exam trainings (physics and math, VMBO and HAVO)
 * One-on-one tutoring of high-school students (physics, math and chemistry, HAVO and VWO) -->
 
@@ -83,8 +81,7 @@ Thesis: "Learning by Reward and Punishment in a Biologically Inspired Neural Net
 Advisor: Dr. W.A. van Leeuwen
 
 `2002-2003` **Beta-Gamma Propedeuse**, *University of Amsterdam*.<br/>
-<!-- 
-## Coding
+<!-- ## Coding
 
 `Proficient`
 Python, R, CPLEX, Mathematica
@@ -191,8 +188,7 @@ J. Berkhout, **E. Bosdriesz**, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink
 <br>
 
 ### Preprints
-<!-- 
-**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br> -->
+<!-- **E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br> -->
 
 N. Aben, J. de Ruiter, **E. Bosdriesz**, Y. Kim, G. Bounova, D.J. Vis, L.F.A. Wessels and M. Michaut.
 ‘Identifying Biomarkers of Anti-Cancer Drug Synergy Using Multi-Task Learning.’
