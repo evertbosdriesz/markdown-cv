@@ -112,10 +112,10 @@ C, C++ (It's been a while) -->
 ### Key
 
 **E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
-*Shows that Comperative Network Reconstruction can be be used to predict which low-dose multi-drug combinations that are selective in an isogenic cell-line pair.*<br>
+*Shows that Comparative Network Reconstruction can be used to predict which low-dose multi-drug combinations that are selective in an isogenic cell-line pair.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a>
 
-J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
+J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2020.
 *Shows that combining multiple drugs at low dose is effective, prevents emergence resistance, and is well tolerated by mice.*
 
 **E. Bosdriesz**, A. Prahallad, B. Klinger, A. Sieber, A. Bosma, R. Bernards, N. Bl&uuml;thgen and L.F.A. Wessels, ‘Comparative Network Reconstruction Using Mixed Integer Programming’, *Bioinformatics*, *34*:i997–1004. doi:[10.1093/bioinformatics/bty616](https://doi.org/10.1093/bioinformatics/bty616), 2018.<br>
@@ -143,7 +143,7 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 
 
 `2020`
-J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2018.
+J. Fernandes Neto, E. Nadal#, **E. Bosdriesz**#, S. N. Ooft, L. Farre, C. McLean, S. Klarenbeek, A. Jurgens, H. Hagen, L. Wang, E. Felip, A. Martinez-Marti, A. Vidal, E. Voest, L.F.A. Wessels, O. van Tellingen, A. Villanueva and & R. Bernards, 'Multiple Low Dose Therapy as an Effective Strategy to Treat EGFR Inhibitor-Resistant NSCLC Tumours.' *Nature Communications*, *11 (1)*: 3157.doi:[10.1038/s41467-020-16952-9](https://doi.org/10.1038/s41467-020-16952-9), 2020.
 
 T. Sustic, **E. Bosdriesz**, S. van Wageningen, L.F.A. Wessels and R. Bernards, 'RUNX2/CBFB modulates the response to MEK inhibitors through activation of receptor tyrosine kinases in *KRAS*-mutant colorectal cancer', *Translational Oncology*, *13*(2):201-211.
 doi:[10.1016/j.tranon.2019.10.006(https://doi.org/10.1016/j.tranon.2019.10.006), 2020.
