@@ -111,7 +111,13 @@ C, C++ (It's been a while) -->
 
 ### Key
 
-**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
+**T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” bioRxiv. doi:[10.1101/2024.03.29.587331](https://doi.org/10.1101/2024.03.29.587331), 2024.<br>
+*Method to reconstruct and compare signaling networks subpopulation specific signaling networks from single cell (phospho)-protein quantification data.*<br>
+<i class="fab fa-github"></i> <a href="https://github.com/ibivu/scmra"> Code </a> -
+<a href="https://github.com/tstohn/scmra_analysis"> Notebooks </a>
+
+
+**E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards, N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
 *Shows that Comparative Network Reconstruction can be used to predict which low-dose multi-drug combinations that are selective in an isogenic cell-line pair.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/cnr-selective-combos"> Code and Data </a>
 
@@ -135,6 +141,10 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 *FEBS Journal*, *282*(10):2029-2044. doi:[10.1111/febs.13258](https://doi.org/10.1111/febs.13258), 2015.<br>
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a> -->
+### Preprints
+
+`2024`
+**T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” bioRxiv. doi:[10.1101/2024.03.29.587331](https://doi.org/10.1101/2024.03.29.587331), 2024.
 
 ### Peer-reviewed articles
 
