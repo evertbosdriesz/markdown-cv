@@ -199,15 +199,6 @@ J. Berkhout, **E. Bosdriesz**, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink
 *Genetics*, *194*:505–512. doi:[10.1534/genetics.113.150631](https://doi.org/10.1534/genetics.113.150631), 2013.
 
 <br>
-
-### Preprints
-<!-- **E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying selective drug combinations using Comparative Network Reconstruction'. *bioRxiv 2020.12.17.423240*; doi:[10.1101/2020.12.17.423240](https://doi.org/10.1101/2020.12.17.423240), 2020.<br> -->
-
-N. Aben, J. de Ruiter, **E. Bosdriesz**, Y. Kim, G. Bounova, D.J. Vis, L.F.A. Wessels and M. Michaut.
-‘Identifying Biomarkers of Anti-Cancer Drug Synergy Using Multi-Task Learning.’
-*BioRxiv* 243568. doi:[10.1101/243568](https://doi.org/10.1101/243568), 2018.<br>
-
-
 ## Talks
 
 
