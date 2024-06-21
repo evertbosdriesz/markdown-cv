@@ -8,13 +8,12 @@ Assistant Professor, Vrije Universiteit Amsterdam
 
 Bioinformatics, Department of Computer Science<br/>
 
-<a href="e.bosdriesz@vu.nl">e.bosdriesz@vu.nl</a> - +31 (0)6 20678153
+<a href="e.bosdriesz@vu.nl">e.bosdriesz@vu.nl</a> 
 
 <div id="webaddress">
   <a href="https://orcid.org/0000-0002-8788-9548"><i class="ai ai-orcid"></i> 0000-0002-8788-9548</a> -
   <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Bosdriesz+E"><i class="ai ai-pubmed"></i> Pubmed </a> -
-  <a href="https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> - 
-  <a href="https://twitter.com/evertbosdriesz"><i class="ai ai-twitter"></i> @evertbosdriesz</a>
+  <a href="https://scholar.google.com/citations?user=FWmDPGgAAAAJ&hl=en"><i class="ai ai-google-scholar"></i> Google Scholar</a> 
 </div>
 
 <!-- ### Qualities 
@@ -94,16 +93,6 @@ bash, snakemake, git
 
 `Rusty`
 C, C++ (It's been a while) -->
-
-## Awards
-
-`2013` **SB@NL symposium poster prize** (2th place)
-
-`2011` **FEBS Youth Travel Fund**, Grant covering expenses to attend the FEBS-SysBio2011 advanced lecture course.
-
-`2010` **Shell Theoretical Physics Stipend**, Awarded annually to the best graduates in theoretical physics in the Netherlands.
-
-`2009` **MSc Theoretical Physics Cum laude**
 
 ## Publications
 
@@ -197,6 +186,17 @@ M.T. Wortel#, **E. Bosdriesz#**, B. Teusink, and F.J. Bruggeman.
 J. Berkhout, **E. Bosdriesz**, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink and F.J. Bruggeman,
 ‘How Biochemical Constraints of Cellular Growth Shape Evolutionary Adaptations in Metabolism.’,
 *Genetics*, *194*:505–512. doi:[10.1534/genetics.113.150631](https://doi.org/10.1534/genetics.113.150631), 2013.
+
+
+## Awards
+
+`2013` **SB@NL symposium poster prize** (2th place)
+
+`2011` **FEBS Youth Travel Fund**, Grant covering expenses to attend the FEBS-SysBio2011 advanced lecture course.
+
+`2010` **Shell Theoretical Physics Stipend**, Awarded annually to the best graduates in theoretical physics in the Netherlands.
+
+`2009` **MSc Theoretical Physics Cum laude**
 
 <br>
 ## Talks
