@@ -100,6 +100,10 @@ C, C++ (It's been a while) -->
 
 ### Key
 
+N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and **K.W. Mulder<sup>#</sup>**. 2025. “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” bioRxiv. https://doi.org/10.1101/2025.01.27.635060.
+*Shows that both the the response of signaling proteins and the interactions between proteins depend on cell-state*
+<a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
+
 **T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” bioRxiv. doi:[10.1101/2024.03.29.587331](https://doi.org/10.1101/2024.03.29.587331), 2024.<br>
 *Method to reconstruct and compare signaling networks subpopulation specific signaling networks from single cell (phospho)-protein quantification data.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/ibivu/scmra"> Code </a> -
@@ -131,6 +135,10 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 *Uses mechanistic, minimal models to understand the design principles of how bacteria control their macromolecular composition*:
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a> -->
 ### Preprints
+
+`2025`
+N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and **K.W. Mulder<sup>#</sup>**. 2025. “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” bioRxiv. https://doi.org/10.1101/2025.01.27.635060.
+<a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
 
 `2024`
 **T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” bioRxiv. doi:[10.1101/2024.03.29.587331](https://doi.org/10.1101/2024.03.29.587331), 2024.
