@@ -212,7 +212,7 @@ J. Berkhout, **E. Bosdriesz**, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink
 
 
 `2025` 
-**NWO Life**  ISFaN: Normalizing   single-cell protein data without inducing spurious correlations, Egmond aan zee, the Netherlands
+**NWO Life2025**  ISFaN: Normalizing   single-cell protein data without inducing spurious correlations, Egmond aan zee, the Netherlands
 
 **Bioinformatics: from observation to data analysis seminar** *Single-Cell Comparative Network Reconstruction Reveals Cell-State Dependent Signaling*, Free University of Bozen-Bolzano/online
 
