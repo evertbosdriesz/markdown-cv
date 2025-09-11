@@ -210,6 +210,12 @@ J. Berkhout, **E. Bosdriesz**, E. Nikerel, D. Molenaar, D. de Ridder, B. Teusink
 ## Talks
 
 
+
+`2025` 
+**NWO Life**  ISFaN: Normalizing   single-cell protein data without inducing spurious correlations, Egmond aan zee, the Netherlands
+
+**Bioinformatics: from observation to data analysis seminar** *Single-Cell Comparative Network Reconstruction Reveals Cell-State Dependent Signaling*, Free University of Bozen-Bolzano/online
+
 `2022` 
 **Amsterdam UMC MCBI research meetings**, *Understanding cell state dependent drug response using network modeling*, Amsterdam, the Netherlands.
 
