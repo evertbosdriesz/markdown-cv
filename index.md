@@ -104,11 +104,10 @@ N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<s
 *Shows that both the the response of signaling proteins and the interactions between proteins depend on cell-state*
 <a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
 
-**T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” bioRxiv. doi:[10.1101/2024.03.29.587331](https://doi.org/10.1101/2024.03.29.587331), 2024.<br>
+**T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” *Bioinformatics* doi:[10.1093/bioinformatics/btaf675](https://doi.org/10.1093/bioinformatics/btaf675), 2025.<br>
 *Method to reconstruct and compare signaling networks subpopulation specific signaling networks from single cell (phospho)-protein quantification data.*<br>
 <i class="fab fa-github"></i> <a href="https://github.com/ibivu/scmra"> Code </a> -
 <a href="https://github.com/tstohn/scmra_analysis"> Notebooks </a>
-
 
 **E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards, N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.<br>
 *Shows that Comparative Network Reconstruction can be used to predict which low-dose multi-drug combinations that are selective in an isogenic cell-line pair.*<br>
@@ -140,10 +139,11 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and **K.W. Mulder<sup>#</sup>**. 2025. “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” bioRxiv. https://doi.org/10.1101/2025.01.27.635060.
 <a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
 
-`2024`
-**T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” bioRxiv. doi:[10.1101/2024.03.29.587331](https://doi.org/10.1101/2024.03.29.587331), 2024.
 
 ### Peer-reviewed articles
+
+`2025`
+**T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” *Bioinformatics* doi:[10.1093/bioinformatics/btaf675](https://doi.org/10.1093/bioinformatics/btaf675), 2025.<br>
 
 `2022`
 **E. Bosdriesz**, J. Fernandes Neto, A. Sieber, R. Bernards,N. Bl&uuml;thgen and L.F.A. Wessels, 'Identifying mutant-specific drug combinations using Comparative Network Reconstruction'. *iScience*, *25*(8); doi:[10.1016/j.isci.2022.104760](http://dx.doi.org/10.1016/j.isci.2022.104760), 2022.
