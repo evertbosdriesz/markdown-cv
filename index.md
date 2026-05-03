@@ -100,9 +100,9 @@ C, C++ (It's been a while) -->
 
 ### Key
 
-N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>. “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” *bioRxiv*. 2025 https://doi.org/10.1101/2025.01.27.635060.
+N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>. “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” *Molecular & Cellular Proteomics* doi:[10.1016/j.mcpro.2026.101529](https://doi.org/10.1016/j.mcpro.2026.101529), 2026.<br>
 *Shows that both the the response of signaling proteins and the interactions between proteins depend on cell-state*
-<a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
+<a href=”https://github.com/evertbosdriesz/scIDseq-CNR”> Notebooks </a>
 
 **T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” *Bioinformatics* doi:[10.1093/bioinformatics/btaf675](https://doi.org/10.1093/bioinformatics/btaf675), 2025.<br>
 *Method to reconstruct and compare signaling networks subpopulation specific signaling networks from single cell (phospho)-protein quantification data.*<br>
@@ -135,12 +135,18 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 <a href="https://jjj.bio.vu.nl/models/bosdriesz1/"><i class="fas fa-home"></i> model</a> -->
 ### Preprints
 
-`2025`
-N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and **K.W. Mulder<sup>#</sup>**. “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” bioRxiv. https://doi.org/10.1101/2025.01.27.635060, 2025.
-<a href="https://github.com/evertbosdriesz/scIDseq-CNR"> Notebooks </a>
+`2026`
+**T. Stohn**, **N.D. van de Brug**, **A. Theodosiadou**, B. Thijssen, K. Jastrzebski, L.F.A. Wessels, and **E. Bosdriesz**, “ESGI: Efficient Splitting of Generic Indices in Single-Cell Sequencing Data.” *bioRxiv* doi:[10.64898/2026.03.04.709594](https://doi.org/10.64898/2026.03.04.709594), 2026.<br>
+*Preprocessing framework for single-cell sequencing experiments with flexible barcode designs, supporting variable-length barcodes and complex indexing schemes unsupported by conventional pipelines.*<br>
+<a href=”https://github.com/tstohn/ESGI”> Code </a> -
+<a href=”https://tstohn.github.io/ESGI.documentation”> Documentation </a>
 
 
 ### Peer-reviewed articles
+
+`2026`
+N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>. “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” *Molecular & Cellular Proteomics* doi:[10.1016/j.mcpro.2026.101529](https://doi.org/10.1016/j.mcpro.2026.101529), 2026.<br>
+<a href=”https://github.com/evertbosdriesz/scIDseq-CNR”> Notebooks </a>
 
 `2025`
 **T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” *Bioinformatics* doi:[10.1093/bioinformatics/btaf675](https://doi.org/10.1093/bioinformatics/btaf675), 2025.<br>
