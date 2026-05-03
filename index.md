@@ -102,7 +102,7 @@ C, C++ (It's been a while) -->
 
 N. Kramer, R. van Eijl, **T. Stohn**, S. Tanis, L.F.A. Wessels, **E. Bosdriesz<sup>#</sup>**, and K.W. Mulder<sup>#</sup>. “Cell-State Specific Drug-Responses Are Associated with Differences in Signaling Network Wiring.” *Molecular & Cellular Proteomics* doi:[10.1016/j.mcpro.2026.101529](https://doi.org/10.1016/j.mcpro.2026.101529), 2026.<br>
 *Shows that both the the response of signaling proteins and the interactions between proteins depend on cell-state*
-<a href=”https://github.com/evertbosdriesz/scIDseq-CNR”> Notebooks </a>
+<i class="fab fa-github"></i> <a href="https://github.com/evertbosdriesz/scIDseq-CNR”"> Code </a>
 
 **T. Stohn**, R. van Eijl, K.W. Mulder, L.F.A. Wessels, and **E. Bosdriesz**, “Reconstructing and Comparing Signal Transduction Networks from Single Cell Protein Quantification Data.” *Bioinformatics* doi:[10.1093/bioinformatics/btaf675](https://doi.org/10.1093/bioinformatics/btaf675), 2025.<br>
 *Method to reconstruct and compare signaling networks subpopulation specific signaling networks from single cell (phospho)-protein quantification data.*<br>
@@ -138,8 +138,8 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 `2026`
 **T. Stohn**, **N.D. van de Brug**, **A. Theodosiadou**, B. Thijssen, K. Jastrzebski, L.F.A. Wessels, and **E. Bosdriesz**, “ESGI: Efficient Splitting of Generic Indices in Single-Cell Sequencing Data.” *bioRxiv* doi:[10.64898/2026.03.04.709594](https://doi.org/10.64898/2026.03.04.709594), 2026.<br>
 *Preprocessing framework for single-cell sequencing experiments with flexible barcode designs, supporting variable-length barcodes and complex indexing schemes unsupported by conventional pipelines.*<br>
-<a href=”https://github.com/tstohn/ESGI”> Code </a> -
-<a href=”https://tstohn.github.io/ESGI.documentation”> Documentation </a>
+<i class="fab fa-github"></i><a href=”https://github.com/tstohn/ESGI”> Code </a> -
+<i class="fab fa-github"></i><a href=”https://tstohn.github.io/ESGI.documentation”> Documentation </a>
 
 
 ### Peer-reviewed articles
