@@ -137,9 +137,6 @@ doi:[10.1074/mcp.RA117.000486](https://doi.org/10.1074/mcp.RA117.000486), 2018.<
 
 `2026`
 **T. Stohn**, **N.D. van de Brug**, **A. Theodosiadou**, B. Thijssen, K. Jastrzebski, L.F.A. Wessels, and **E. Bosdriesz**, “ESGI: Efficient Splitting of Generic Indices in Single-Cell Sequencing Data.” *bioRxiv* doi:[10.64898/2026.03.04.709594](https://doi.org/10.64898/2026.03.04.709594), 2026.<br>
-*Preprocessing framework for single-cell sequencing experiments with flexible barcode designs, supporting variable-length barcodes and complex indexing schemes unsupported by conventional pipelines.*<br>
-<i class="fab fa-github"></i><a href=”https://github.com/tstohn/ESGI”> Code </a> -
-<i class="fab fa-github"></i><a href=”https://tstohn.github.io/ESGI.documentation”> Documentation </a>
 
 
 ### Peer-reviewed articles
